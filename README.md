@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+C#
+HTML
+CSS
+JavaScript(Bootstrap)
+MSSQL
+MYSQL
+
 <!--
 **BurakGoturler/BurakGoturler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
