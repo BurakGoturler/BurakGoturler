@@ -1,9 +1,10 @@
-### Hi there 👋
+### Merhaba, 👋 ben Burak. Bilgisayar Programcılığı 2. sınıf öğrencisiyim. YazılımınbBir çok alt alanında kendimi geliştirmeye çalışıyorum. Frontend ve Mobil Uygulama Geliştirme ile ilgileniyorum. Veri tabanı olarak daha çok MSSQL ve MYSQL ile ilgileniyorum.
+
+
 
 <!--
 **BurakGoturler/BurakGoturler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
