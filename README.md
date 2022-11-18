@@ -1,4 +1,4 @@
-### Merhaba, 👋 ben Burak. Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılımın bir çok alt alanında kendimi geliştirmeye çalışıyorum. Frontend web Development ve Flutter ile Mobil Uygulama Geliştirme ile ilgileniyorum.
+### Merhaba, ben Burak.👋 Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılımın bir çok alt alanında kendimi geliştirmeye çalışıyorum. Frontend web Development ve Flutter ile Mobil Uygulama Geliştirme ile ilgileniyorum.
 
 
 
