@@ -4,8 +4,6 @@ Hi 👋 My name is Burak
 Computer Programming Student
 ----------------------------
 
-I am a Computer Programming student. Trying to improve myself in many sub-fields of software. Currently learning mobile application development and web frontend development.
-
 * 🌍  I'm based in Türkiye/Nevşehir
 * ✉️  You can contact me at [burakkgoturlerr@gmail.com](mailto:burakkgoturlerr@gmail.com)
 * 🧠  I'm learning Flutter for mobile application development and javascript libraries for website development.
