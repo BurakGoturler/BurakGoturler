@@ -5,7 +5,7 @@ Computer Programming Student
 ----------------------------
 
 * 🌍  I'm based in Türkiye/Nevşehir
-* ✉️  You can contact me at [burakkgoturlerr@gmail.com](mailto:burakkgoturlerr@gmail.com)
+* ✉️  You can contact me at [burakgoturlerr@gmail.com](mailto:burakkgoturlerr@gmail.com)
 * 🧠  I'm learning Flutter for mobile application development and javascript libraries for website development.
 * ⚡  #StayPositive
 
