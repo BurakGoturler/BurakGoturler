@@ -4,7 +4,7 @@ Hi 👋 My name is Burak
 Computer Programming Student
 ----------------------------
 
-* 🌍  I'm based in Türkiye/Nevşehir
+* 🌍  I'm based in Türkiye/Kayseri
 * ✉️  You can contact me at [burakgoturlerr@gmail.com](mailto:burakkgoturlerr@gmail.com)
 * 🧠  I'm learning Flutter for mobile application development and javascript libraries for website development.
 * ⚡  #StayPositive
