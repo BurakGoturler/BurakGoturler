@@ -1,4 +1,4 @@
-Hi 👋 My name is Burak
+Hi 👋 I'm Burak
 ======================
 
 Computer Programming Student
