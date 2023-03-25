@@ -8,7 +8,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br
+<br>
 
 - Hello, I'm Burak.  I am interested in frontend development with backend support. Recently I've been working with JavaScript, Asp.NET Core, Asp.NET Core MVC and some web front-end libraries.
 - I’m currently open for an a new job opportunity.
