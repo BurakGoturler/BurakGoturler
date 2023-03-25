@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center"><b>Hi , I'm Burak </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -82,10 +83,6 @@
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <br>
 <div align='center'>
-
-<ul>
-
-<li>
 <a href="https://linkedin.com/in/burakgoturler/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  burakgoturler-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
@@ -95,7 +92,7 @@
 
 <li>
 <a href="https://twitter.com/burakkdev" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  Burak Goturler-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -121,6 +118,10 @@
 ## <b>Stay Positive :)✨</b>
 
 </div>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 <br>
 <br>
 <br>
