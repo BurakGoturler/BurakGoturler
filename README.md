@@ -1,15 +1,14 @@
-
 <h1 align="center"><b>Hi , I'm Burak </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Programmer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Programmer" alt="Typing SVG" /></a>
 <br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
+<br
 
 - Hello, I'm Burak.  I am interested in frontend development with backend support. Recently I've been working with JavaScript, Asp.NET Core, Asp.NET Core MVC and some web front-end libraries.
 - I’m currently open for an a new job opportunity.
@@ -56,7 +55,6 @@
 
 <br>
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -70,15 +68,13 @@
 </div>
 
 <br>
-<br>
-<br>
 
 -----
 
 <br>
 <br>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
 <br>
 <div align='center'>
 
@@ -100,18 +96,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
 
 <div align='center'>
 
 ## <b>Stay Positive :)✨</b>
-<br>
-<br>
-<br>
-<br>
 </div>
-
 <br>
-<br>
-<br>
-<br>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
