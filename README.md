@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Burak. I am interested in frontend development with backend support. Recently I've been working with JavaScript, Asp.NET Core, Asp.NET Core MVC and some web front-end libraries.<br>I’m currently open for an a new job opportunity.
+Hello, I'm Burak. I am interested in frontend development with backend support. Recently I've been working with JavaScript, Asp.NET Core, Asp.NET Core MVC and some web front-end libraries.<br> <br> <br>I’m currently open for an a new job opportunity.
 
 
 ## 🌐 Socials:
@@ -25,13 +25,3 @@ Hello, I'm Burak. I am interested in frontend development with backend support. 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-
-<div align='center'>
-
-## <b>Stay Positive :)✨</b>
-</div>
-<br>
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
