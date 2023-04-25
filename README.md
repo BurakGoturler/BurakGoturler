@@ -20,8 +20,3 @@ Hello, I'm Burak. I am interested in frontend development with backend support. 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BurakGoturler&icon=3&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
