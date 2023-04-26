@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello, I'm Burak. I am interested in frontend development with backend support. Recently I've been working with JavaScript, Asp.NET Core, Asp.NET Core MVC and some web front-end libraries.<br> <br> <br>I’m currently open for an a new job opportunity.
 
 
