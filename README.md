@@ -1,6 +1,5 @@
 ##  About Me:
-Hello, I'm Burak. I am interested in frontend development with backend support. Recently I've been working with JavaScript and ASP .NET Core MVC. I’m currently open for an a new job opportunity.
-
+Hello, I'm Burak. I am interested in frontend development with backend support. 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakgoturler)
