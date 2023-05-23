@@ -1,5 +1,5 @@
 ##  About Me:
-Hello, I'm Burak, I'm a Computer Programmer. I have previously developed Frontend and Frontend supported Backend projects. Recently I am interested in Mobile Application Development.
+Hello, I'm Burak, I'm a Computer Programmer. I have previously developed Frontend and Frontend supported Backend projects.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakgoturler)
