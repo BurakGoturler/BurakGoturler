@@ -15,7 +15,7 @@ Hi, I'm Burak. During my computer programming education, I focused on both front
 ## IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Andorid Studio](https://img.shields.io/badge/Android%20Studio-5C2D91.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Andorid Studio](https://img.shields.io/badge/Android%20Studio-5C2D91.svg?style=for-the-badge&logo=androidd-studio&logoColor=white)
 
 ## Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
