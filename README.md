@@ -1,5 +1,4 @@
 ##  About Me:
-//Hello, I'm Burak, I'm a Computer Programmer. I have previously developed Frontend and Frontend supported Backend projects.
 
 Türkçe:
 
