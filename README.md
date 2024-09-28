@@ -2,11 +2,11 @@
 
 Türkçe:
 
-Merhaba, ben Burak. Bilgisayar programcılığı eğitimim boyunca frontend ve backend geliştirmeye odaklandım. Mezun olduktan sonra bu alanda kendimi geliştirmeye devam ettim. Şu sıralar ise mobil uygulama geliştirme üzerine çalışıyorum. Yeni teknolojileri keşfetmek ve sürekli öğrenmek, yazılım dünyasında beni motive eden en büyük etkenler arasında.
+Merhaba, ben Burak. Bilgisayar programcılığı eğitimim boyunca frontend ve backend geliştirmeye odaklandım. Mezun olduktan sonra bu alanda kendimi geliştirmeye devam ettim. Yeni teknolojileri keşfetmek ve sürekli öğrenmek, yazılım dünyasında beni motive eden en büyük etkenler arasında.
 
 English:
 
-Hi, I'm Burak. During my computer programming education, I focused on both frontend and backend development. After graduation, I continued to enhance my skills in these areas. Currently, I'm working on mobile app development. Exploring new technologies and continuously learning are the key factors that keep me motivated in the software world.
+Hi, I'm Burak. During my computer programming education, I focused on both frontend and backend development. After graduation, I continued to enhance my skills in these areas. Exploring new technologies and continuously learning are the key factors that keep me motivated in the software world.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkediln&logoColor=white)](https://linkedin.com/in/burakgoturler)
@@ -16,7 +16,6 @@ Hi, I'm Burak. During my computer programming education, I focused on both front
 ## IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Andorid Studio](https://img.shields.io/badge/Android%20Studio-5C2D91.svg?style=for-the-badge&logo=androidd-studio&logoColor=white)
 
 ## Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharpp&logoColor=white)
