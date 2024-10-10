@@ -2,11 +2,11 @@
 
 Türkçe:
 
-Merhaba, ben Burak. Bilgisayar programcılığı eğitimim boyunca frontend ve backend geliştirmeye odaklandım. Mezun olduktan sonra bu alanda kendimi geliştirmeye devam ettim. Yeni teknolojileri keşfetmek ve sürekli öğrenmek, yazılım dünyasında beni motive eden en büyük etkenler arasında.
+Merhaba, ben Burak. Bilgisayar programcılığı eğitimim boyunca frontend ve backend geliştirmeye odaklandım. Mezun olduktan sonra bu alanda kendimi geliştirmeye devam ettim. Yeni teknolojileri keşfetmek ve sürekli öğrenmek, yazılım dünyasında beni motive eden en büyük etkenler arasında. Son zamanlarda kendimi IT alanında ve ASP .NET teknolojisinde geliştiriyorum.
 
 English:
 
-Hi, I'm Burak. During my computer programming education, I focused on both frontend and backend development. After graduation, I continued to enhance my skills in these areas. Exploring new technologies and continuously learning are the key factors that keep me motivated in the software world.
+Hi, I'm Burak. During my computer programming education, I focused on frontend and backend development. After graduating, I continued to improve myself in this field. Discovering new technologies and constantly learning are among the biggest factors that motivate me in the software world. Recently, I've been developing myself in the IT field and ASP .NET technology.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkediln&logoColor=white)](https://linkedin.com/in/burakgoturler)
