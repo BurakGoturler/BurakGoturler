@@ -10,8 +10,6 @@ Hi, I'm Burak. During my computer programming education, I focused on frontend a
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkediln&logoColor=white)](https://linkedin.com/in/burakgoturler)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=mediuml&logoColor=white)](https://medium.com/@1burak_g)
-//[![Youtube](https://img.shields.io/badge/Youtube-12100E?logo=youtubel&logoColor=rgrayrrr)](https://www.youtube.com/@BurakGoturler)
 
 ## IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
