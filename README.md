@@ -17,7 +17,7 @@ Hi, I'm Burak. During my computer programming education, I focused on frontend a
 
 ## Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharpp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NETCORE-5C2D91?style=for-the-badge&logo=.nett&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET%CORE-5C2D91?style=for-the-badge&logo=.nett&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html55&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css33&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=boottstrap&logoColor=white)
