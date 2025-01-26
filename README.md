@@ -8,9 +8,6 @@ English:
 
 Hi, I'm Burak. During my computer programming education, I focused on frontend and backend development. After graduating, I continued to improve myself in this field. Discovering new technologies and constantly learning are among the biggest factors that motivate me in the software world. Recently, I've been developing myself in the IT field and ASP .NET Core technology.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkediln&logoColor=white)](https://linkedin.com/in/burakgoturler)
-
 ## IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
