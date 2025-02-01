@@ -4,7 +4,7 @@ Merhaba, ben Burak Götürler. Bilgisayar Programcılığı mezunuyum. Şu anda 
 
 Daha önce C# ile Windows Form projeleri geliştirerek masaüstü yazılım alanında deneyim kazandım. Ayrıca web programlama alanında Frontend ve Backend projelerinde yer alarak yazılım geliştirme becerilerimi güçlendirdim.
 
-Şu anda hem IT destek uzmanlığı hem de ASP .NET Core ilgili eğitim programlarına katılıyor ve öğrendiklerimi pratiğe dökerek yetkinliklerimi artırıyorum. Hedefim, teknik bilgi ve becerilerimle sektörde değer yaratmak ve yenilikçi projelere katkı sağlamak.
+Şu anda hem IT destek uzmanlığı hem de ASP .NET Core ilgili eğitim programlarına katılıyor ve öğrendiklerimi pratiğe dökerek yetkinliklerimi artırıyorum.
 
 ## IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
