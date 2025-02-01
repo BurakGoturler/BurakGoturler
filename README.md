@@ -1,12 +1,7 @@
-##  About Me:
+## Hakkımda
 
-Türkçe:
 
 Merhaba, ben Burak. Bilgisayar programcılığı eğitimim boyunca frontend ve backend geliştirmeye odaklandım. Mezun olduktan sonra bu alanda kendimi geliştirmeye devam ettim. Yeni teknolojileri keşfetmek ve sürekli öğrenmek, yazılım dünyasında beni motive eden en büyük etkenler arasında. Son zamanlarda kendimi IT alanında ve ASP .NET Core teknolojisinde geliştiriyorum.
-
-English:
-
-Hi, I'm Burak. During my computer programming education, I focused on frontend and backend development. After graduating, I continued to improve myself in this field. Discovering new technologies and constantly learning are among the biggest factors that motivate me in the software world. Recently, I've been developing myself in the IT field and ASP .NET Core technology.
 
 ## IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
