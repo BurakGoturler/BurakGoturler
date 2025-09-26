@@ -7,8 +7,11 @@ Nilvera Yazılım'da, Yazılım teknik destek, kullanıcı sorun çözümü, uyg
 Erciyes Çelik Halat Tel San. ve Tic. A.Ş.'de, Fabrika yazılım, sistem ve donanım kurulumu, IP kamera kurulumu ve genel bilgi işlem süreçlerinde bilgi edindim.
 
 Teknolojik yetkinlikler:
+
 Frontend: HTML, CSS, JS, Bootstrap, React
+
 Backend: C#, .NET Core, Web API, MVC, EF Core, MSSQL
+
 IT & Sistem Yönetimi: Windows Server, Active Directory (AD), GPO, DNS, DHCP, IP yönetimi, kullanıcı & grup yönetimi, IP kamera kurulumu, sanallaştırma (Hyper-V, VMware)
 
 Hâlâ kendimi geliştirmeye devam ediyor, yeni projeler üretiyor ve sertifikalar alıyorum. İş arama sürecindeyim ve IT altyapısı ile yazılım geliştirme alanlarında çözüm odaklı katkılar sunmayı hedefliyorum.
