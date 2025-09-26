@@ -1,10 +1,17 @@
 ## Hakkımda
 
-Merhaba, ben Burak Götürler. Bilgisayar Programcılığı mezunuyum. Şu anda kariyerimi IT destek, Bilgi İşlem ve ASP.NET Core teknolojisi üzerine inşa ediyorum.
+Bilgisayar Programcılığı mezunuyum ve IT altyapısı ile web tabanlı yazılım geliştirme alanlarında kariyerimi ilerletiyorum.
 
-Daha önce C# ile Windows Form projeleri geliştirerek masaüstü yazılım alanında deneyim kazandım. Ayrıca web programlama alanında Frontend ve Backend projelerinde yer alarak yazılım geliştirme becerilerimi güçlendirdim.
+Nilvera Yazılım'da, Yazılım teknik destek, kullanıcı sorun çözümü, uygulama kurulumları ve yapılandırmaları, yazılım güncellemeleri ile teknik destek taleplerini yönetme deneyimi kazandım.
 
-Şu anda hem IT destek uzmanlığı hem de ASP .NET Core ilgili eğitim programlarına katılıyor ve öğrendiklerimi pratiğe dökerek yetkinliklerimi artırıyorum.
+Erciyes Çelik Halat Tel San. ve Tic. A.Ş.'de, Fabrika yazılım, sistem ve donanım kurulumu, IP kamera kurulumu ve genel bilgi işlem süreçlerinde bilgi edindim.
+
+Teknolojik yetkinlikler:
+Frontend: HTML, CSS, JS, Bootstrap, React
+Backend: C#, .NET Core, Web API, MVC, EF Core, MSSQL
+IT & Sistem Yönetimi: Windows Server, Active Directory (AD), GPO, DNS, DHCP, IP yönetimi, kullanıcı & grup yönetimi, IP kamera kurulumu, sanallaştırma (Hyper-V, VMware)
+
+Hâlâ kendimi geliştirmeye devam ediyor, yeni projeler üretiyor ve sertifikalar alıyorum. İş arama sürecindeyim ve IT altyapısı ile yazılım geliştirme alanlarında çözüm odaklı katkılar sunmayı hedefliyorum.
 
 ## IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
