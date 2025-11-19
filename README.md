@@ -8,9 +8,9 @@ Erciyes Çelik Halat Tel San. ve Tic. A.Ş.'de, Fabrika yazılım, sistem ve don
 
 Teknolojik yetkinlikler:
 
-Frontend: HTML, CSS, JS, Bootstrap, React
+Frontend: HTML, CSS, JS, Bootstrap
 
-Backend: C#, .NET Core, Web API, MVC, EF Core, MSSQL
+Backend: C#, .NET Core, MVC, EF Core, MSSQL
 
 IT & Sistem Yönetimi: Windows Server, Active Directory (AD), GPO, DNS, DHCP, IP yönetimi, kullanıcı & grup yönetimi, IP kamera kurulumu, sanallaştırma (Hyper-V, VMware)
 
